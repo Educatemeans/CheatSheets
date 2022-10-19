@@ -24,6 +24,12 @@ VsCode:
     #Fold Block
         Ctrl + Shift + [
         
+    #Fold all regions
+       ctrl+Kctrl+0
+       
+    #Move last selection to next Find match
+        ctrl+Kctrl+D
+        
     #Unfold Block
         Ctrl + Shift + ]
 
