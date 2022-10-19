@@ -24,6 +24,14 @@ WINDOWS:
 
 	#List the contents of current directory
 		dir
+		
+	#delete temporary files 
+	       win+r 
+	       %temp%
+	       
+	#Check Detailed PC Configuration
+	       win+r
+	       %dxdiag%
 
 	#Run the Python Interpreter
 		python
