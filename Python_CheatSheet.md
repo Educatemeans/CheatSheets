@@ -244,3 +244,14 @@
 	#This function is invoked by the import statement.
 		import()
     
+    
+       #to convert to uppercase
+               message.upper() 
+       #to convert to lowercase       
+               message.lower() 
+       #to capitalize the first letter of every word       
+               message.title() 
+       #returns the index of the first occurrence of p (or -1 if not found)        
+               message.find(‘p’) 
+               
+	       message.replace(‘p’, ‘q’
